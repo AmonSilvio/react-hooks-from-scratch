@@ -6,12 +6,12 @@ const App = () => {
     return (
         <div>
             <div>
-                <h1>Hook A: 0</h1>
+                <h1>Count A: 1</h1>
                 <button>Subtract</button>
                 <button>Add</button>
             </div>
             <div>
-                <h1>Hook B: 0</h1>
+                <h1>Count B: -1</h1>
                 <button>Subtract</button>
                 <button>Add</button>
             </div>
